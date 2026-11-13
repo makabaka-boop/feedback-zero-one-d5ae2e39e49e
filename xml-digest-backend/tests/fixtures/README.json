@@ -1,0 +1,1 @@
+{"_comment": "Each subdirectory holds independent on-disk fixtures consumed by test_artifacts.py. reject/: input files that must be refused (XML or selection). bytes/: XML + selection + expected canonical byte files.", "fixtures": "see sibling files"}
